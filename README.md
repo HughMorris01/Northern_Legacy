@@ -1,16 +1,33 @@
-# React + Vite
+# Northern Legacy 🌲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Northern Legacy** is the digital storefront and brand platform for our Clayton, NY-based cannabis dispensary. Established in 2022, the brand focuses on quality, heritage, and a premium customer experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📍 About the Project
 
-## React Compiler
+This repository contains the web application for Northern Legacy, designed to provide a seamless browsing experience for our local community and visitors to the Thousand Islands region.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features (In Development)
 
-## Expanding the ESLint configuration
+- **Digital Menu:** A clean, easy-to-navigate interface for browsing current inventory.
+- **Brand Story:** Highlighting our roots and the "Est. 2023" legacy.
+- **Store Locator:** Integration with Google Maps for our Clayton, NY location.
+- **Age Verification:** Secure entry gateway to ensure compliance with New York State regulations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React (via Vite)
+- **Styling:** CSS3 / Tailwind (Planned)
+- **Deployment:** GitHub Pages / Vercel (TBD)
+
+---
+
+## 🚀 Development Setup
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/HughMorris01/northern-legacy.git](https://github.com/HughMorris01/northern-legacy.git)
+   ```
